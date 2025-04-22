@@ -20,6 +20,8 @@ Welcome to **Developers Stop** – a sleek and powerful dashboard-style web appl
 - **Linting**: ESLint
 
 ## 🚀 Getting Started
+![Screenshot 2025-04-23 014730](https://github.com/user-attachments/assets/0c9ded21-df7e-48fb-9cd4-92e5833fd5c6)
+
 
 ```bash
 # Clone the repo
@@ -34,4 +36,3 @@ npm install
 # Start the development server
 npm run dev
 
-![Screenshot 2025-04-23 014730](https://github.com/user-attachments/assets/923cdc05-acec-49f6-9444-7bc4d4908163)
