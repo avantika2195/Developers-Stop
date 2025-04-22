@@ -33,3 +33,5 @@ npm install
 
 # Start the development server
 npm run dev
+
+![Screenshot 2025-04-23 014730](https://github.com/user-attachments/assets/923cdc05-acec-49f6-9444-7bc4d4908163)
